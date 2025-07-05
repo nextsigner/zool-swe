@@ -1,1 +1,1 @@
-Se sube swe
+Se crea script install.sh
